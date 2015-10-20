@@ -1,0 +1,1 @@
+emacs inits for asti
